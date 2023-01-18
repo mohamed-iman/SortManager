@@ -1,0 +1,213 @@
+2023-01-18 bubbleSorter INFO BubbleSorter has been initiated! 
+2023-01-18 bubbleSorter INFO Unsorted array is [334, 38, 819, 87, 428, 537, 930, 276, 113, 365] 
+2023-01-18 bubbleSorter FINE Comparing 334 
+2023-01-18 bubbleSorter FINER With 38 
+2023-01-18 bubbleSorter FINEST 334 is larger than 38-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 819, 87, 428, 537, 930, 276, 113, 365] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 819, 87, 428, 537, 930, 276, 113, 365] 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter FINEST 819 is larger than 87-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 819, 428, 537, 930, 276, 113, 365] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter FINEST 819 is larger than 428-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 428, 819, 537, 930, 276, 113, 365] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter FINEST 819 is larger than 537-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 428, 537, 819, 930, 276, 113, 365] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 428, 537, 819, 930, 276, 113, 365] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter FINEST 930 is larger than 276-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 428, 537, 819, 276, 930, 113, 365] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter FINEST 930 is larger than 113-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 428, 537, 819, 276, 113, 930, 365] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter FINEST 930 is larger than 365-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 428, 537, 819, 276, 113, 365, 930] 
+2023-01-18 bubbleSorter FINE Comparing 334 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 334, 87, 428, 537, 819, 276, 113, 365, 930] 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter FINEST 334 is larger than 87-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 819, 276, 113, 365, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 819, 276, 113, 365, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 819, 276, 113, 365, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 819, 276, 113, 365, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter FINEST 819 is larger than 276-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 819, 113, 365, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter FINEST 819 is larger than 113-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 113, 819, 365, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter FINEST 819 is larger than 365-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 113, 365, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 113, 365, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 334 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 113, 365, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 113, 365, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 113, 365, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 537, 276, 113, 365, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter FINEST 537 is larger than 276-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 537, 113, 365, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter FINEST 537 is larger than 113-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 113, 537, 365, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter FINEST 537 is larger than 365-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 113, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 113, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 113, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 428 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 113, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 113, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 428, 276, 113, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter FINEST 428 is larger than 276-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 428, 113, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter FINEST 428 is larger than 113-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 113, 428, 365, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter FINEST 428 is larger than 365-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 113, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 113, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 113, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 113, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 113 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 113, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 334, 276, 113, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter FINEST 334 is larger than 276-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 334, 113, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter FINEST 334 is larger than 113-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 365 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 276, 113, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter FINEST 276 is larger than 113-> Commencing swap 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 428 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 537 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 819 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINE Comparing 930 
+2023-01-18 bubbleSorter FINER With 87 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 113 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 276 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 334 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 365 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 428 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 537 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 819 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter FINER With 930 
+2023-01-18 bubbleSorter INFO Current array is [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
+2023-01-18 bubbleSorter INFO Sorted array: [38, 87, 113, 276, 334, 365, 428, 537, 819, 930] 
