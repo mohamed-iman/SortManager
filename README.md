@@ -1,5 +1,9 @@
 # SortManagerProject
 
+## About this project ##
+
+The aim of this project was to produce a java program which contains different sorting algorithms for sorting an array and allows the user to select which array they would like to use and which size array they would like to implement. Three algorithms were included in the program, a bubblesort, mergesort and a binary tree. After sorting each array, the program will print the unsorted array, the sorted array and performance time.
+
 ## How to use my sort manager:
 
 Firstly, go to the App class in the com.sparta.mi.start folder and run the program.
